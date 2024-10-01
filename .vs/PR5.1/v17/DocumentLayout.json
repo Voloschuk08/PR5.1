@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{877C4DC2-0EC0-45C3-B679-3477CD36DB0B}|PR5.1\\PR5.1.vcxproj|D:\\Olia Voloshchuk\\PR5.1\\PR5.1\\PR5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{877C4DC2-0EC0-45C3-B679-3477CD36DB0B}|PR5.1\\PR5.1.vcxproj|solutionrelative:PR5.1\\PR5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E669289-59B9-495A-8F76-B7530E43D861}|..\\UnitTest5.1\\UnitTest5.1.vcxproj|D:\\Olia Voloshchuk\\UnitTest5.1\\UnitTest5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest5.1.cpp",
+              "DocumentMoniker": "D:\\Olia Voloshchuk\\UnitTest5.1\\UnitTest5.1.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest5.1\\UnitTest5.1.cpp",
+              "ToolTip": "D:\\Olia Voloshchuk\\UnitTest5.1\\UnitTest5.1.cpp",
+              "RelativeToolTip": "..\\UnitTest5.1\\UnitTest5.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T12:32:55.885Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "PR5.1\\PR5.1.cpp",
               "ToolTip": "D:\\Olia Voloshchuk\\PR5.1\\PR5.1\\PR5.1.cpp",
               "RelativeToolTip": "PR5.1\\PR5.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-30T16:09:38.797Z",
               "EditorCaption": ""
